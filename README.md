@@ -1,4 +1,4 @@
-# MySQL + Express
+# Express Authentication
 
 ## Setup
 
