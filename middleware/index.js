@@ -2,7 +2,7 @@ const jwt = require('jsonwebtoken')
 
 const logger = () => {}
 
-const authorization = () => {}
+const authenticate = () => {}
 
 module.exports = {
   logger,
